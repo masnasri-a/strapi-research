@@ -1,0 +1,421 @@
+{
+  "channel": {
+    "title": "MASNASRI",
+    "link": "https://testingmasnasri.wordpress.com",
+    "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D \u2614",
+    "pubDate": "Tue, 01 Nov 2022 13:53:59 +0000",
+    "language": "id-ID",
+    "wp_wxr_version": "1.2",
+    "wp_base_site_url": "http://wordpress.com/",
+    "wp_base_blog_url": "https://testingmasnasri.wordpress.com",
+    "wp_author": [
+      {
+        "wp_author_id": "227725059",
+        "wp_author_login": "nasriblog12",
+        "wp_author_email": "nasriblog12@gmail.com",
+        "wp_author_display_name": "nasri adzlani",
+        "wp_author_first_name": "nasri",
+        "wp_author_last_name": "adzlani"
+      }
+    ],
+    "wp_category": {
+      "wp_term_id": "196341",
+      "wp_category_nicename": "tidak-dikategorikan",
+      "wp_category_parent": null,
+      "wp_cat_name": "Tidak Dikategorikan"
+    },
+    "wp_term": {
+      "wp_term_id": "814814",
+      "wp_term_taxonomy": "nav_menu",
+      "wp_term_slug": "utama",
+      "wp_term_name": "Utama"
+    },
+    "generator": "http://wordpress.com/",
+    "image": {
+      "url": "http://s0.wp.com/i/buttonw-com.png",
+      "title": "MASNASRI",
+      "link": "https://testingmasnasri.wordpress.com"
+    },
+    "item": [
+      {
+        "title": "Beranda",
+        "link": "https://testingmasnasri.wordpress.com/",
+        "pubDate": "Tue, 01 Nov 2022 13:35:38 +0000",
+        "dc_creator": "nasriblog12",
+        "guid": {
+          "isPermaLink": "false",
+          "value": "https://testingmasnasri.wordpress.com/home/"
+        },
+        "description": null,
+        "content_encoded": "<!-- wp:query {\"queryId\":8,\"query\":{\"perPage\":\"10\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"categoryIds\":[],\"tagIds\":[],\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"\",\"inherit\":false}} -->\n<div class=\"wp-block-query\"><!-- wp:post-template -->\n<!-- wp:post-title {\"isLink\":true,\"style\":{\"typography\":{\"fontSize\":\"64px\",\"lineHeight\":\"1.2\"}}} /-->\n\n<!-- wp:post-featured-image {\"isLink\":true,\"align\":\"wide\"} /-->\n\n<!-- wp:post-content /-->\n\n<!-- wp:group {\"layout\":{\"type\":\"flex\"}} -->\n<div class=\"wp-block-group\"><!-- wp:post-date {\"isLink\":true,\"style\":{\"typography\":{\"fontSize\":\"16px\"}}} /-->\n\n<!-- wp:post-terms {\"term\":\"category\",\"style\":{\"typography\":{\"fontSize\":\"16px\"}}} /-->\n\n<!-- wp:post-terms {\"term\":\"post_tag\",\"style\":{\"typography\":{\"fontSize\":\"16px\"}}} /--></div>\n<!-- /wp:group -->\n\n<!-- wp:spacer {\"height\":120} -->\n<div style=\"height:120px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n<!-- /wp:post-template -->\n\n<!-- wp:query-pagination -->\n<div class=\"wp-block-query-pagination\"><!-- wp:query-pagination-previous /-->\n\n<!-- wp:query-pagination-next /--></div>\n<!-- /wp:query-pagination --></div>\n<!-- /wp:query -->",
+        "excerpt_encoded": null,
+        "wp_post_id": "2",
+        "wp_post_date": "2022-11-01 20:35:38",
+        "wp_post_date_gmt": "2022-11-01 13:35:38",
+        "wp_post_modified": "2022-11-01 20:35:38",
+        "wp_post_modified_gmt": "2022-11-01 13:35:38",
+        "wp_comment_status": "closed",
+        "wp_ping_status": "closed",
+        "wp_post_name": "home",
+        "wp_status": "publish",
+        "wp_post_parent": "0",
+        "wp_menu_order": "0",
+        "wp_post_type": "page",
+        "wp_post_password": null,
+        "wp_is_sticky": "0",
+        "wp_postmeta": [
+          {
+            "wp_meta_key": "_headstart_post",
+            "wp_meta_value": "_hs_front_page"
+          },
+          {
+            "wp_meta_key": "sharing_disabled",
+            "wp_meta_value": "a:1:{i:0;N;}"
+          },
+          {
+            "wp_meta_key": "switch_like_status",
+            "wp_meta_value": "a:1:{i:0;N;}"
+          },
+          { "wp_meta_key": "_starter_page_template", "wp_meta_value": "blank" },
+          { "wp_meta_key": "_hs_old_id", "wp_meta_value": "29" },
+          { "wp_meta_key": "_wpas_skip_all_services", "wp_meta_value": "1" },
+          {
+            "wp_meta_key": "_wp_page_template",
+            "wp_meta_value": "header-footer-only"
+          },
+          { "wp_meta_key": "_publicize_pending", "wp_meta_value": "1" },
+          {
+            "wp_meta_key": "_checklist_post_type",
+            "wp_meta_value": "_hs_front_page"
+          }
+        ]
+      },
+      {
+        "title": "Halo Dunia!",
+        "link": "https://testingmasnasri.wordpress.com/2022/11/01/hello-world/",
+        "pubDate": "Tue, 01 Nov 2022 13:35:37 +0000",
+        "dc_creator": "nasriblog12",
+        "guid": {
+          "isPermaLink": "false",
+          "value": "https://testingmasnasri.wordpress.com/2022/11/01/hello-world/"
+        },
+        "description": null,
+        "content_encoded": "<!-- wp:paragraph --> <p>Selamat Datang di WordPress! Ini adalah pos pertama Anda. Sunting atau hapus pos tersebut sebagai langkah pertama dalam perjalanan blogging Anda.</p> <!-- /wp:paragraph -->",
+        "excerpt_encoded": null,
+        "wp_post_id": "3",
+        "wp_post_date": "2022-11-01 20:35:37",
+        "wp_post_date_gmt": "2022-11-01 13:35:37",
+        "wp_post_modified": "2022-11-01 20:35:37",
+        "wp_post_modified_gmt": "2022-11-01 13:35:37",
+        "wp_comment_status": "open",
+        "wp_ping_status": "open",
+        "wp_post_name": "hello-world",
+        "wp_status": "publish",
+        "wp_post_parent": "0",
+        "wp_menu_order": "0",
+        "wp_post_type": "post",
+        "wp_post_password": null,
+        "wp_is_sticky": "0",
+        "category": [
+          {
+            "domain": "category",
+            "nicename": "tidak-dikategorikan",
+            "value": "Tidak Dikategorikan"
+          }
+        ],
+        "wp_postmeta": [
+          { "wp_meta_key": "_headstart_post", "wp_meta_value": "_hs_extra" },
+          {
+            "wp_meta_key": "sharing_disabled",
+            "wp_meta_value": "a:1:{i:0;N;}"
+          },
+          {
+            "wp_meta_key": "switch_like_status",
+            "wp_meta_value": "a:1:{i:0;N;}"
+          },
+          { "wp_meta_key": "_starter_page_template", "wp_meta_value": null },
+          { "wp_meta_key": "_hs_old_id", "wp_meta_value": "4" },
+          { "wp_meta_key": "_wpas_skip_all_services", "wp_meta_value": "1" },
+          { "wp_meta_key": "_publicize_pending", "wp_meta_value": "1" }
+        ]
+      },
+      {
+        "title": null,
+        "link": "https://testingmasnasri.wordpress.com/2022/11/01/4/",
+        "pubDate": "Tue, 01 Nov 2022 13:40:39 +0000",
+        "dc_creator": "nasriblog12",
+        "guid": {
+          "isPermaLink": "false",
+          "value": "https://testingmasnasri.wordpress.com/2022/11/01/4/"
+        },
+        "description": null,
+        "content_encoded": " ",
+        "excerpt_encoded": null,
+        "wp_post_id": "4",
+        "wp_post_date": "2022-11-01 20:40:39",
+        "wp_post_date_gmt": "2022-11-01 13:40:39",
+        "wp_post_modified": "2022-11-01 20:40:39",
+        "wp_post_modified_gmt": "2022-11-01 13:40:39",
+        "wp_comment_status": "closed",
+        "wp_ping_status": "closed",
+        "wp_post_name": "4",
+        "wp_status": "publish",
+        "wp_post_parent": "0",
+        "wp_menu_order": "1",
+        "wp_post_type": "nav_menu_item",
+        "wp_post_password": null,
+        "wp_is_sticky": "0",
+        "category": [
+          { "domain": "nav_menu", "nicename": "utama", "value": "Utama" }
+        ],
+        "wp_postmeta": [
+          { "wp_meta_key": "_publicize_pending", "wp_meta_value": "1" },
+          { "wp_meta_key": "_menu_item_type", "wp_meta_value": "post_type" },
+          {
+            "wp_meta_key": "_menu_item_menu_item_parent",
+            "wp_meta_value": "0"
+          },
+          { "wp_meta_key": "_menu_item_object_id", "wp_meta_value": "2" },
+          { "wp_meta_key": "_menu_item_object", "wp_meta_value": "page" },
+          { "wp_meta_key": "_menu_item_target", "wp_meta_value": null },
+          {
+            "wp_meta_key": "_menu_item_classes",
+            "wp_meta_value": "a:1:{i:0;s:0:\"\";}"
+          },
+          { "wp_meta_key": "_menu_item_xfn", "wp_meta_value": null },
+          { "wp_meta_key": "_menu_item_url", "wp_meta_value": null },
+          { "wp_meta_key": "_menu_item_content", "wp_meta_value": null }
+        ]
+      },
+      {
+        "title": "Custom Styles",
+        "link": "https://testingmasnasri.wordpress.com/2022/11/01/wp-global-styles-pub%2flivro/",
+        "pubDate": "Tue, 01 Nov 2022 13:41:47 +0000",
+        "dc_creator": "nasriblog12",
+        "guid": {
+          "isPermaLink": "false",
+          "value": "https://testingmasnasri.wordpress.com/2022/11/01/wp-global-styles-pub%2flivro/"
+        },
+        "description": null,
+        "content_encoded": "{\"version\":2,\"settings\":{\"color\":{\"palette\":{\"theme\":[{\"slug\":\"foreground\",\"color\":\"#1E1E1E\",\"name\":\"Foreground\"},{\"slug\":\"background\",\"color\":\"#FFFFFF\",\"name\":\"Background\"},{\"slug\":\"secondary\",\"color\":\"#000000\",\"name\":\"Secondary\"}]}}},\"isGlobalStylesUserThemeJSON\":true}",
+        "excerpt_encoded": null,
+        "wp_post_id": "5",
+        "wp_post_date": "2022-11-01 20:41:47",
+        "wp_post_date_gmt": "2022-11-01 13:41:47",
+        "wp_post_modified": "2022-11-01 20:41:48",
+        "wp_post_modified_gmt": "2022-11-01 13:41:48",
+        "wp_comment_status": "closed",
+        "wp_ping_status": "closed",
+        "wp_post_name": "wp-global-styles-pub%2flivro",
+        "wp_status": "publish",
+        "wp_post_parent": "0",
+        "wp_menu_order": "0",
+        "wp_post_type": "wp_global_styles",
+        "wp_post_password": null,
+        "wp_is_sticky": "0",
+        "category": [
+          { "domain": "wp_theme", "nicename": "livro", "value": "livro" }
+        ],
+        "wp_postmeta": [
+          { "wp_meta_key": "_publicize_pending", "wp_meta_value": "1" }
+        ]
+      },
+      {
+        "title": "Kobo Kanaeru, VTuber Populer Indonesia, Kenalan Yuk",
+        "link": "https://testingmasnasri.wordpress.com/2022/11/01/kobo-kanaeru-vtuber-populer-indonesia-kenalan-yuk/",
+        "pubDate": "Tue, 01 Nov 2022 13:42:55 +0000",
+        "dc_creator": "nasriblog12",
+        "guid": {
+          "isPermaLink": "false",
+          "value": "https://testingmasnasri.wordpress.com/?p=7"
+        },
+        "description": null,
+        "content_encoded": "<!-- wp:paragraph -->\n<p><strong>Suara.com -&nbsp;</strong>Belakangan ini, nama&nbsp;<a href=\"https://www.suara.com/tag/kobo-kanaeru\">Kobo Kanaeru</a>&nbsp;menjadi buah bibir di Indonesia. Banyak Otaku yang menyebut-nyebut namanya di berbagai forum.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Siapa sebenarnya Kobo Kanaeru? Kono Kanaeru merupakan&nbsp;<a href=\"https://www.suara.com/tag/youtuber\">YouTuber</a>&nbsp;Virtual perempuan Indonesia besutan Hololive.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Ia memulai debutnya sebagai YouTuber Virtual generasi ketiga Indonesia bersama Vestia Zeta dan Kaela Kovalskia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Sebelum mengenal jauh tentang Kobo Kanaeru, ada baiknya kita mengenal terlebih dahulu apa itu\u00a0<a href=\"https://www.suara.com/tag/vtuber\">VTuber</a>\u00a0yang menjadi alasan Kobo Kanaeru terkenal di Indonesia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":8,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://testingmasnasri.files.wordpress.com/2022/11/image.png?w=653\" alt=\"\" class=\"wp-image-8\" /></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>VTuber berasal dari kalimat YouTube Virtual atau Virtual Liver. Lalu apa bedanya dengan YouTuber?</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Mudah saja, untuk membedakannya kamu bisa cek karakter yang ada.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Meski demikian, aktivitasnya sama dengan apa yang dilakukan oleh para YouTuber ini.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Kamu bisa menonton para avatar berupa muka anime ini makan, jalan-jalan, memasak dan sebagainya.</p>\n<!-- /wp:paragraph -->",
+        "excerpt_encoded": null,
+        "wp_post_id": "7",
+        "wp_post_date": "2022-11-01 20:42:55",
+        "wp_post_date_gmt": "2022-11-01 13:42:55",
+        "wp_post_modified": "2022-11-01 20:42:55",
+        "wp_post_modified_gmt": "2022-11-01 13:42:55",
+        "wp_comment_status": "open",
+        "wp_ping_status": "open",
+        "wp_post_name": "kobo-kanaeru-vtuber-populer-indonesia-kenalan-yuk",
+        "wp_status": "publish",
+        "wp_post_parent": "0",
+        "wp_menu_order": "0",
+        "wp_post_type": "post",
+        "wp_post_password": null,
+        "wp_is_sticky": "0",
+        "category": [
+          {
+            "domain": "category",
+            "nicename": "tidak-dikategorikan",
+            "value": "Tidak Dikategorikan"
+          }
+        ],
+        "wp_postmeta": [
+          {
+            "wp_meta_key": "_last_editor_used_jetpack",
+            "wp_meta_value": "block-editor"
+          },
+          {
+            "wp_meta_key": "timeline_notification",
+            "wp_meta_value": "1667310178"
+          },
+          { "wp_meta_key": "_publicize_job_id", "wp_meta_value": "78298618433" }
+        ]
+      },
+      {
+        "title": "image",
+        "link": "https://testingmasnasri.wordpress.com/2022/11/01/kobo-kanaeru-vtuber-populer-indonesia-kenalan-yuk/image/",
+        "pubDate": "Tue, 01 Nov 2022 13:42:32 +0000",
+        "dc_creator": "nasriblog12",
+        "guid": {
+          "isPermaLink": "false",
+          "value": "http://testingmasnasri.files.wordpress.com/2022/11/image.png"
+        },
+        "description": null,
+        "content_encoded": null,
+        "excerpt_encoded": null,
+        "wp_post_id": "8",
+        "wp_post_date": "2022-11-01 20:42:32",
+        "wp_post_date_gmt": "2022-11-01 13:42:32",
+        "wp_post_modified": "2022-11-01 20:42:32",
+        "wp_post_modified_gmt": "2022-11-01 13:42:32",
+        "wp_comment_status": "open",
+        "wp_ping_status": "closed",
+        "wp_post_name": "image",
+        "wp_status": "inherit",
+        "wp_post_parent": "7",
+        "wp_menu_order": "0",
+        "wp_post_type": "attachment",
+        "wp_post_password": null,
+        "wp_is_sticky": "0",
+        "wp_attachment_url": "https://testingmasnasri.files.wordpress.com/2022/11/image.png",
+        "wp_postmeta": [
+          {
+            "wp_meta_key": "_wp_attached_file",
+            "wp_meta_value": "/home/wpcom/public_html/wp-content/blogs.dir/564/211969229/files/2022/11/image.png"
+          },
+          {
+            "wp_meta_key": "_wp_attachment_metadata",
+            "wp_meta_value": "a:6:{s:5:\"width\";i:653;s:6:\"height\";i:366;s:4:\"file\";s:82:\"/home/wpcom/public_html/wp-content/blogs.dir/564/211969229/files/2022/11/image.png\";s:8:\"filesize\";i:229290;s:5:\"sizes\";a:0:{}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+          }
+        ]
+      },
+      {
+        "title": "utama",
+        "link": "https://testingmasnasri.wordpress.com/2022/11/01/utama/",
+        "pubDate": "Tue, 01 Nov 2022 13:43:01 +0000",
+        "dc_creator": "nasriblog12",
+        "guid": {
+          "isPermaLink": "false",
+          "value": "https://testingmasnasri.wordpress.com/2022/11/01/utama/"
+        },
+        "description": null,
+        "content_encoded": "<!-- wp:navigation-link {\"className\":\" menu-item menu-item-type-post_type menu-item-object-page menu-item-home\",\"description\":\"\",\"id\":\"2\",\"kind\":\"post-type\",\"label\":\"Beranda\",\"opensInNewTab\":false,\"rel\":null,\"title\":\"\",\"type\":\"page\",\"url\":\"https://testingmasnasri.wordpress.com/\"} /-->",
+        "excerpt_encoded": null,
+        "wp_post_id": "10",
+        "wp_post_date": "2022-11-01 20:43:01",
+        "wp_post_date_gmt": "2022-11-01 13:43:01",
+        "wp_post_modified": "2022-11-01 20:43:01",
+        "wp_post_modified_gmt": "2022-11-01 13:43:01",
+        "wp_comment_status": "closed",
+        "wp_ping_status": "closed",
+        "wp_post_name": "utama",
+        "wp_status": "publish",
+        "wp_post_parent": "0",
+        "wp_menu_order": "0",
+        "wp_post_type": "wp_navigation",
+        "wp_post_password": null,
+        "wp_is_sticky": "0"
+      },
+      {
+        "title": "Profil Kobo Kanaeru, VTuber Indonesia yang Lagi Populer",
+        "link": "https://testingmasnasri.wordpress.com/2022/11/01/profil-kobo-kanaeru-vtuber-indonesia-yang-lagi-populer/",
+        "pubDate": "Tue, 01 Nov 2022 13:46:28 +0000",
+        "dc_creator": "nasriblog12",
+        "guid": {
+          "isPermaLink": "false",
+          "value": "https://testingmasnasri.wordpress.com/?p=11"
+        },
+        "description": null,
+        "content_encoded": "<!-- wp:paragraph -->\n<p>uk, kenalan dengan&nbsp;<a href=\"https://www.ayosemarang.com/tag/profil\">profil</a>&nbsp;<a href=\"https://www.ayosemarang.com/tag/Kobo-Kanaeru\">Kobo Kanaeru</a>,&nbsp;<a href=\"https://www.ayosemarang.com/tag/VTuber\">VTuber</a>&nbsp;yang tengah populer di&nbsp;<a href=\"https://www.ayosemarang.com/tag/Indonesia\">Indonesia</a>. Popularitas dari&nbsp;<a href=\"https://www.ayosemarang.com/tag/VTuber\">VTuber</a>&nbsp;<a href=\"https://www.ayosemarang.com/tag/Kobo-Kanaeru\">Kobo Kanaeru</a>&nbsp;di&nbsp;<a href=\"https://www.ayosemarang.com/tag/Indonesia\">Indonesia</a>, bahkan membuatnya sering disebut-sebut&nbsp;<a href=\"https://www.ayosemarang.com/tag/otaku\">otaku</a>&nbsp;di berbagai forum.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Lantas siapa sebenarnya&nbsp;<a href=\"https://www.ayosemarang.com/tag/VTuber\">VTuber</a>&nbsp;<a href=\"https://www.ayosemarang.com/tag/Kobo-Kanaeru\">Kobo Kanaeru</a>?</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"https://www.ayosemarang.com/tag/Kobo-Kanaeru\">Kobo Kanaeru</a>&nbsp;merupakan&nbsp;<a href=\"https://www.ayosemarang.com/tag/VTuber\">VTuber</a>&nbsp;atau YouTuber Virtual perempuan&nbsp;<a href=\"https://www.ayosemarang.com/tag/Indonesia\">Indonesia</a>&nbsp;besutan Hololive. Ia memulai karier sebagai&nbsp;<a href=\"https://www.ayosemarang.com/tag/VTuber\">VTuber</a>&nbsp;generasi ketiga&nbsp;<a href=\"https://www.ayosemarang.com/tag/Indonesia\">Indonesia</a>&nbsp;bersama Vestia Zeta dan Kaela Kovalskia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Sebelum mengenal jauh tentang&nbsp;<a href=\"https://www.ayosemarang.com/tag/Kobo-Kanaeru\">Kobo Kanaeru</a>, ada baiknya kita mengenal terlebih dahulu apa itu&nbsp;<a href=\"https://www.ayosemarang.com/tag/VTuber\">VTuber</a>&nbsp;yang menjadi alasan&nbsp;<a href=\"https://www.ayosemarang.com/tag/Kobo-Kanaeru\">Kobo Kanaeru</a>&nbsp;terkenal di&nbsp;<a href=\"https://www.ayosemarang.com/tag/Indonesia\">Indonesia</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Dilansir dari&nbsp;<a href=\"https://www.suara.com/tekno/2022/06/05/105921/kobo-kanaeru-vtuber-populer-indonesia-kenalan-yuk?page=all\" target=\"_blank\" rel=\"noreferrer noopener\">Suara</a>--jaringan&nbsp;<a href=\"https://www.ayosemarang.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Ayosemarang</a>,&nbsp;<a href=\"https://www.ayosemarang.com/tag/VTuber\">VTuber</a>&nbsp;berasal dari kalimat YouTube Virtual atau Virtual Liver. Lalu apa bedanya dengan YouTuber?</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Mudah saja, untuk membedakannya kamu bisa cek karakter yang ada.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Lain dengan YouTuber yang memang memasang wajah manusia asli,&nbsp;<a href=\"https://www.ayosemarang.com/tag/VTuber\">VTuber</a>&nbsp;memasang avatar layaknya anime.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Meski demikian, aktivitasnya sama dengan apa yang dilakukan oleh para YouTuber ini.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":12,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://testingmasnasri.files.wordpress.com/2022/11/image-1.png?w=1001\" alt=\"\" class=\"wp-image-12\" /></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>Kamu bisa menonton para avatar berupa muka anime ini makan, jalan-jalan, memasak dan sebagainya.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Dilansir dari&nbsp;<em>Japan Times</em>, Minggu (5/6/2022),&nbsp;<a href=\"https://www.ayosemarang.com/tag/VTuber\">VTuber</a>&nbsp;ini hasil kreasi dari manusia kreatif yang ingin eksis di YouTube namun tak ingin menggunakan mukanya sendiri.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Profil&nbsp;<a href=\"https://www.ayosemarang.com/tag/Kobo-Kanaeru\">Kobo Kanaeru</a></strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"https://www.ayosemarang.com/tag/Kobo-Kanaeru\">Kobo Kanaeru</a>&nbsp;sukses mencuri perhatian pecinta anime tanah air karena pembawaannya yang ceria.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Ia digambarkan sebagai seorang gadis periang yang tinggal di ruangan paling atas mercusuar, di mana masih ada hubungan dengan pawang hujan di wilayah tersebut.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Dia memiliki potensi besar untuk mengendalikan hujan, tetapi dia tidak suka melakukannya sebagai tugas.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Untuk memenangkan kembali gelar Master Hujannya, dia perlu membuktikan kepada keluarganya bahwa dia punya potensi untuk mengendalikan hujan.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"https://www.ayosemarang.com/tag/Kobo-Kanaeru\">Kobo Kanaeru</a>\u00a0bukan hanya harus berlatih setiap hari, tetapi dia juga perlu mengadopsi semacam strategi pemasaran virtual untuk berhasil.</p>\n<!-- /wp:paragraph -->",
+        "excerpt_encoded": null,
+        "wp_post_id": "11",
+        "wp_post_date": "2022-11-01 20:46:28",
+        "wp_post_date_gmt": "2022-11-01 13:46:28",
+        "wp_post_modified": "2022-11-01 20:46:28",
+        "wp_post_modified_gmt": "2022-11-01 13:46:28",
+        "wp_comment_status": "open",
+        "wp_ping_status": "open",
+        "wp_post_name": "profil-kobo-kanaeru-vtuber-indonesia-yang-lagi-populer",
+        "wp_status": "publish",
+        "wp_post_parent": "0",
+        "wp_menu_order": "0",
+        "wp_post_type": "post",
+        "wp_post_password": null,
+        "wp_is_sticky": "0",
+        "category": [
+          {
+            "domain": "category",
+            "nicename": "tidak-dikategorikan",
+            "value": "Tidak Dikategorikan"
+          }
+        ],
+        "wp_postmeta": [
+          {
+            "wp_meta_key": "_last_editor_used_jetpack",
+            "wp_meta_value": "block-editor"
+          },
+          {
+            "wp_meta_key": "_publicize_job_id",
+            "wp_meta_value": "78298707605"
+          },
+          {
+            "wp_meta_key": "timeline_notification",
+            "wp_meta_value": "1667310391"
+          }
+        ]
+      },
+      {
+        "title": "image-1",
+        "link": "https://testingmasnasri.wordpress.com/2022/11/01/profil-kobo-kanaeru-vtuber-indonesia-yang-lagi-populer/image-1/",
+        "pubDate": "Tue, 01 Nov 2022 13:45:31 +0000",
+        "dc_creator": "nasriblog12",
+        "guid": {
+          "isPermaLink": "false",
+          "value": "http://testingmasnasri.files.wordpress.com/2022/11/image-1.png"
+        },
+        "description": null,
+        "content_encoded": null,
+        "excerpt_encoded": null,
+        "wp_post_id": "12",
+        "wp_post_date": "2022-11-01 20:45:31",
+        "wp_post_date_gmt": "2022-11-01 13:45:31",
+        "wp_post_modified": "2022-11-01 20:45:31",
+        "wp_post_modified_gmt": "2022-11-01 13:45:31",
+        "wp_comment_status": "open",
+        "wp_ping_status": "closed",
+        "wp_post_name": "image-1",
+        "wp_status": "inherit",
+        "wp_post_parent": "11",
+        "wp_menu_order": "0",
+        "wp_post_type": "attachment",
+        "wp_post_password": null,
+        "wp_is_sticky": "0",
+        "wp_attachment_url": "https://testingmasnasri.files.wordpress.com/2022/11/image-1.png",
+        "wp_postmeta": [
+          {
+            "wp_meta_key": "_wp_attached_file",
+            "wp_meta_value": "/home/wpcom/public_html/wp-content/blogs.dir/564/211969229/files/2022/11/image-1.png"
+          },
+          {
+            "wp_meta_key": "_wp_attachment_metadata",
+            "wp_meta_value": "a:6:{s:5:\"width\";i:1001;s:6:\"height\";i:606;s:4:\"file\";s:84:\"/home/wpcom/public_html/wp-content/blogs.dir/564/211969229/files/2022/11/image-1.png\";s:8:\"filesize\";i:919083;s:5:\"sizes\";a:0:{}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+          }
+        ]
+      }
+    ]
+  }
+}
