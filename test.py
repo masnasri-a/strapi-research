@@ -2,8 +2,8 @@ import xml.etree.ElementTree as ET
 import json
 
 # configuration: change filename and namespace if needed
-xml_name = './data.xml'
-out_name = r'data.json'
+xml_name = '/home/nasri/Workspace/MigrationWP/ggwp-2.xml'
+out_name = r'ggwp-2.json'
 
 ns = {
     'wp': 'http://wordpress.org/export/1.2/',
